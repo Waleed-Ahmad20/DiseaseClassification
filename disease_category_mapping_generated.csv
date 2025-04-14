@@ -1,0 +1,26 @@
+Disease,Category
+Acute Coronary Syndrome,Cardiovascular
+Adrenal Insufficiency,Endocrine
+Alzheimer,Neurological/Endocrine
+Aortic Dissection,Cardiovascular
+Asthma,Respiratory/Infectious
+Atrial Fibrillation,Cardiovascular
+Cardiomyopathy,Cardiovascular
+COPD,Respiratory/Infectious
+Diabetes,Endocrine
+Epilepsy,Neurological/Endocrine
+Gastritis,Gastrointestinal
+Gastro-oesophageal Reflux Disease,Gastrointestinal
+Heart Failure,Cardiovascular
+Hyperlipidemia,Cardiovascular
+Hypertension,Cardiovascular
+Migraine,Neurological/Endocrine
+Multiple Sclerosis,Neurological/Endocrine
+Peptic Ulcer Disease,Gastrointestinal
+Pituitary Disease,Neurological/Endocrine
+Pneumonia,Respiratory/Infectious
+Pulmonary Embolism,Respiratory/Infectious
+Stroke,Neurological/Endocrine
+Thyroid Disease,Endocrine
+Tuberculosis,Respiratory/Infectious
+Upper Gastrointestinal Bleeding,Gastrointestinal
